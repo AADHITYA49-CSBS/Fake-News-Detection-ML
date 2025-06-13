@@ -1,5 +1,4 @@
 
-<img src="https://github.com/AADHITYA49-CSBS/Fake-News-Detection-ML/blob/main/your-image-name.png" width="800">
 
 
 Fake News Detection Using Machine Learning
